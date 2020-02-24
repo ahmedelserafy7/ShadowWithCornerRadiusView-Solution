@@ -1,4 +1,4 @@
-# ShadowWithCornerRadiusView-Solution
+# ShadowWithCornerRadiusView Solution
 
 ## Description
 
@@ -43,3 +43,5 @@ with `containerView.layer.shadowRadius = 8` && `containerView.layer.shadowColor 
 <img src="https://i.imgur.com/Wq5nJ5Y.png">
 
 Note: If you'd like to change the background color of the view, Change the `subContainerView` background.
+
+If you like this, Upvote me on [Stack Overflow](https://stackoverflow.com/questions/47786017/how-to-add-corner-radius-and-shadow-to-a-uiview-in-ios/59995250#59995250)
