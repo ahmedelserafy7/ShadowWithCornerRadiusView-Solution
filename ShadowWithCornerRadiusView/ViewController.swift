@@ -41,10 +41,13 @@ class ViewController: UIViewController {
         
         containerView.backgroundColor = .clear
         containerView.layer.shadowColor = UIColor.lightGray.cgColor
+        
         // or if you'd like to add shadow color in black, it's what you prefer
         //containerView.layer.shadowColor = UIColor.black.cgColor
+        
         containerView.layer.shadowOffset = .zero
         containerView.layer.shadowOpacity = 0.3
+        
         // shadow radius is optional, you can add or comment it
         containerView.layer.shadowRadius = 8
         containerView.layer.masksToBounds = false
